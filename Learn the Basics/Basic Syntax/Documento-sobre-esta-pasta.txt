@@ -1,5 +1,7 @@
-Sintaxe básica
+1. Aprenda o básico
 
-Recurso gratuito do tópico
+    Sintaxe básica
 
-video: Python for Beginners - Learn Python in 1 Hour ( https://youtu.be/kqtD5dpn9C8?si=wIysPP_wRJt95v5g )
+    Recurso gratuito do tópico
+
+    video: Python for Beginners - Learn Python in 1 Hour ( "https://youtu.be/kqtD5dpn9C8?si=wIysPP_wRJt95v5g" )
